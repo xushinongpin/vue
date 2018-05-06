@@ -1,4 +1,6 @@
-# 计算属性-computed 与 监听器-watch
+# computed - 计算属性
+
+# watch - 监听器
 
 ```
 <body>
