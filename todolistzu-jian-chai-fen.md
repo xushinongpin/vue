@@ -1,3 +1,5 @@
+# 每个组件都是一个vue实例
+
 # todolist
 
 ```
@@ -12,10 +14,14 @@
   </body>
   <script src="./js/vue.js"></script>
   <script type="text/javascript">
-    //全局组件
     Vue.component('todo-item',{
       props:['content'],
-      template:'<li>{{content}}</li>'
+      template:'<li @click="handleClick">{{content}}</li>',
+      methods:{
+        handleClick:function(){
+          alert('111');
+        }
+      }
     })
     // var TodoTiem = {
     //   template:'<li>item</li>'
@@ -25,6 +31,7 @@
       // components:{
       //   'todo-item':TodoTiem
       // },
+      template:'',
       data:{
         inputValue:'',
         list:[]

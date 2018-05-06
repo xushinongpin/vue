@@ -9,5 +9,5 @@
   * [v-bind 属性绑定与v-model双向数据绑定](v-bind.md)
   * [computed计算属性 与 watch监听器](ji-suan-shu-xing-yu-jian-ting-qi.md)
   * [v-if，v-show与v-for指令](v-ifv-showyu-v-for-zhi-ling.md)
-  * [todolist组件拆分](todolistzu-jian-chai-fen.md)
+  * [组件与实例](todolistzu-jian-chai-fen.md)
 
