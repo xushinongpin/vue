@@ -1,7 +1,6 @@
-v-text
+# v-text  将内容转义，将标签也看成文本
 
 ```
-
 <body>
   <div id="v_text">
     <div v-text="content"></div>
@@ -17,10 +16,6 @@ v-text
     })
   </script>
 ```
-
-
-
-
 
 
 

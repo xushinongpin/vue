@@ -1,4 +1,4 @@
-v-html
+# v-html  不转义，显示dom的内容
 
 ```
 <body>
