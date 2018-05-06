@@ -1,5 +1,6 @@
 ```
 元素绑定事件 - 点击事件
+
 <body>
   <div id="onclick">
     <div v-on:click="handleClick">{{content}}</div>
