@@ -1,7 +1,5 @@
 # 每个组件都是一个vue实例
 
-# todolist
-
 ```
   <body>
     <div id="root">
