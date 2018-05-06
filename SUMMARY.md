@@ -7,4 +7,5 @@
   * [v\_text 将内容转义](vtext.md)
   * [v\_html 不转义](vhtml.md)
   * [v-bind 属性绑定与v-model双向数据绑定](v-bind.md)
+  * [computed计算属性 与 watch监听器](ji-suan-shu-xing-yu-jian-ting-qi.md)
 
