@@ -1,4 +1,4 @@
-# v-bind
+# v-bind 的简写是  ：
 
 ```
 <body>
