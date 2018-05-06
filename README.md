@@ -1,12 +1,10 @@
-# 作为一个全站工程师，前端需要继续学习嘚。
+# 
 
-
-
-1. build - 项目配置文件【 可以不动 】
-2. config
-3. node\_modules
-4. src
-5. static
+1. build - 项目配置文件
+2. config - 开发环境与线上文件的配置文件
+3. node\_modules - 项目的依赖
+4. src - 源代码放置的目录
+5. static - 静态的资源
 6. .babelrc
 7. .editorconfig
 8. .eslintignore
@@ -15,7 +13,7 @@
 11. .postcssrc.js
 12. package.json
 13. package-lock.json
-14. index.html
+14. index.html - 整个网站的最外层html
 15. README.md
 
 ### vue网站：[https://vuejs.org/](https://vuejs.org/)
