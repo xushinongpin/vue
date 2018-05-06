@@ -4,7 +4,7 @@
 
 * [vue学习](README.md)
 
-## Methods
+## 元素绑定事件 v-on
 
 * [Defining Methods](methods.md)
 
