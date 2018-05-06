@@ -4,6 +4,9 @@
 2. config - 开发环境与线上文件的配置文件
 3. node\_modules - 项目的依赖
 4. src - 源代码放置的目录
+   | main.js | 真个项目的入口文件 |
+   | :--- | :--- |
+   | App.vue |  |
 5. static - 静态的资源
 6. .babelrc
 7. .editorconfig
