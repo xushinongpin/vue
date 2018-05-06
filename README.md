@@ -1,4 +1,4 @@
-# 
+# npm使用 安装nodejs 地址： https://nodejs.org/zh-cn/download/
 
 1. build - 项目配置文件
 2. config - 开发环境与线上文件的配置文件
