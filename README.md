@@ -1,23 +1,36 @@
 # npm使用 安装nodejs 地址： [https://nodejs.org/zh-cn/download/](https://nodejs.org/zh-cn/download/)
 
-1. build - 项目配置文件
-2. config - 开发环境与线上文件的配置文件
-3. node\_modules - 项目的依赖
-4. src - 源代码放置的目录
-   | main.js | 真个项目的入口文件 |
-   | :--- | :--- |
-   | App.vue |  |
-5. static - 静态的资源
-6. .babelrc
-7. .editorconfig
-8. .eslintignore
-9. .eslintrc.js
-10. .gitignore
-11. .postcssrc.js
-12. package.json
-13. package-lock.json
-14. index.html - 整个网站的最外层html
-15. README.md
+```
+├── build                      // 构建相关  
+├── config                     // 配置相关
+├── src                        // 源代码
+│   ├── api                    // 所有请求
+│   ├── assets                 // 图片 字体等静态资源
+│   ├── components             // 全局公用组件
+│   ├── directive              // 全局指令
+│   ├── filtres                // 全局filter
+│   ├── mock                   // mock数据
+│   ├── router                 // 路由
+│   ├── store                  // 全局store管理
+│   ├── styles                 // 全局样式
+│   ├── utils                  // 全局公用方法
+│   ├── views                  // view
+│   ├── App.vue                // 入口页面
+│   ├── main.js                // 入口 加载组件 初始化等
+│   └── permission.js          // 权限控制 初始用户数据等
+├── static                     // 第三方不打包资源
+│   ├── img                    // 第三方不打包图片
+│   └── theme                  // 主题包
+├── .babelrc                   // babel-loader 配置
+├── eslintrc.js                // eslint 配置项
+├── .gitignore                 // git 忽略项
+├── .fjpublish.config.js       // 自动化发布服务器 配置
+├── index.html                 // html模板
+└── package.json               // package.json
+
+```
+
+
 
 ### vue网站：[https://vuejs.org/](https://vuejs.org/)
 
