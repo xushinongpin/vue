@@ -35,6 +35,8 @@
 
 #### vue-resource 的GitHub地址：  [https://github.com/pagekit/vue-resource](https://github.com/pagekit/vue-resource) 【 安装： npm install vue-resource 】
 
+### 安装stylus和stylus-loader 【 npm install stylus stylus-loader --save-dev 】
+
 ##### 挂载点内部的内容 - 模版内容 template
 
 ```
