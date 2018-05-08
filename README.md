@@ -31,9 +31,9 @@
 
 ### vue网站：[https://vuejs.org/](https://vuejs.org/)
 
-#### vue-router 文档地址：   [https://router.vuejs.org/zh-cn/](https://router.vuejs.org/zh-cn/)
+#### vue-router 文档地址：   [https://router.vuejs.org/zh-cn/](https://router.vuejs.org/zh-cn/) 【 安装： npm install vue-router 】
 
-#### vue-resource 的GitHub地址：  https://github.com/pagekit/vue-resource
+#### vue-resource 的GitHub地址：  [https://github.com/pagekit/vue-resource](https://github.com/pagekit/vue-resource) 【 安装： npm install vue-resource 】
 
 ##### 挂载点内部的内容 - 模版内容 template
 
