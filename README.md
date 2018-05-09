@@ -37,6 +37,13 @@
 
 ### 安装stylus和stylus-loader 【 npm install stylus stylus-loader --save-dev 】
 
+```
+icon.styl里面路径踩过的坑：
+    ../fonts/sell-icon.eot... 不能写相对路径，要改为绝对路径 - 
+    /src/common/fonts/sell-icon.eot...
+
+```
+
 ##### 挂载点内部的内容 - 模版内容 template
 
 ```
