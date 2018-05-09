@@ -41,8 +41,9 @@
 icon.styl里面路径踩过的坑：
     ../fonts/sell-icon.eot... 不能写相对路径，要改为绝对路径 - 
     /src/common/fonts/sell-icon.eot...
-
 ```
+
+##### css3 注意事项网址：  https://www.w3cplus.com/css3/css-secrets/sticky-footers.html
 
 ##### 挂载点内部的内容 - 模版内容 template
 
