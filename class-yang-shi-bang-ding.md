@@ -1,4 +1,4 @@
-样式绑定
+# 样式绑定
 
 ```
 <!DOCTYPE html>
@@ -14,7 +14,7 @@
 		<div id="app">
 			<div @click="handleDivClick" :class="{activated: isActivated}">hello word</div>
 			<div @click="handleDivClickd" :class="[activate]">hello word</div>
-			<div :style="styleObj" @click="handleDivClickS">hello word</div>
+			<div :style="[styleObj , {fontSize: '24px'}]" @click="handleDivClickS">hello word</div>
 		</div>
 	</body>
 	<script src="./vue.js"></script>
