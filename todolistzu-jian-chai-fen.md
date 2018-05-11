@@ -52,6 +52,7 @@
 原生jq写法【添加功能】
 
 ```
+模式 ： V 视图 P 控制器  
 <!DOCTYPE html>
 <html>
 <head>
