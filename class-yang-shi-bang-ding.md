@@ -14,6 +14,7 @@
 		<div id="app">
 			<div @click="handleDivClick" :class="{activated: isActivated}">hello word</div>
 			<div @click="handleDivClickd" :class="[activate]">hello word</div>
+			<div :style="styleObj" @click="handleDivClickS">hello word</div>
 		</div>
 	</body>
 	<script src="./vue.js"></script>
@@ -23,6 +24,9 @@
 			data: {
 				isActivated: false,
 				activate: false,
+				styleObj: {
+					color: "blue"
+				}
 			},
 			methods: {
 				handleDivClick: function() {
@@ -33,6 +37,9 @@
 					this.activate = this.activate === "activate" ? "" : "activate";
 					
 				},
+				handleDivClickS: function() {
+					this.styleObj.color = this.styleObj.color === 'blue' ? "black" : "blue";
+				}
 			}
 		})
 	</script>
