@@ -49,44 +49,44 @@
   </script>
 ```
 
-原生jq写法
+原生jq写法【添加功能】
 
 ```
 <!DOCTYPE html>
 <html>
 <head>
-	<title>jquery list</title>
+    <title>jquery list</title>
 </head>
 <body>
-	<div>
-		<input type="text" id="input">
-		<button id="btn">提交</button>
-		<ul id="list"></ul>
-	</div>
+    <div>
+        <input type="text" id="input">
+        <button id="btn">提交</button>
+        <ul id="list"></ul>
+    </div>
 </body>
 <script src="./jquery-3.3.1.min.js"></script>
 <script type="text/javascript">
-	function Page() {
+    function Page() {
 
-	}
-	$.extend(Page.prototype, {
-		init: function() {
-			this.bindEvents()
-		},
-		bindEvents: function() {
-			var btn = $("#btn");
-			btn.on('click', $.proxy(this.handleBtnClick, this))
-		},
-		handleBtnClick: function() {
-			var inputElem = $("#input");
-			var inputValue = inputElem.val();
-			var ulElem = $("#list");
-			ulElem.append('<li>' + inputValue + '</li>');
-			inputElem.val('');
-		}
-	});
-	var page = new Page();
-	page.init();
+    }
+    $.extend(Page.prototype, {
+        init: function() {
+            this.bindEvents()
+        },
+        bindEvents: function() {
+            var btn = $("#btn");
+            btn.on('click', $.proxy(this.handleBtnClick, this))
+        },
+        handleBtnClick: function() {
+            var inputElem = $("#input");
+            var inputValue = inputElem.val();
+            var ulElem = $("#list");
+            ulElem.append('<li>' + inputValue + '</li>');
+            inputElem.val('');
+        }
+    });
+    var page = new Page();
+    page.init();
 </script>
 </html>
 ```
