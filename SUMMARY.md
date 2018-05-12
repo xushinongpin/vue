@@ -12,5 +12,6 @@
   * [v-if，v-show与v-for指令](v-ifv-showyu-v-for-zhi-ling.md)
   * [todolist - 组件与实例](todolistzu-jian-chai-fen.md)
   * [:class 样式绑定](class-yang-shi-bang-ding.md)
+  * [组件使用中的细节点](zu-jian-shi-yong-zhong-de-xi-jie-dian.md)
   * [父组件传值](fu-zu-jian-chuan-zhi.md)
 
