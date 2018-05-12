@@ -24,4 +24,5 @@
   * [Vue中的CSS动画原理](vuezhong-de-css-dong-hua-yuan-li.md)
   * [在Vue中使用Animate.css库](zai-vue-zhong-shi-yong-animate-css-ku.md)
   * [Vue中同时使用过渡和动画](vuezhong-tong-shi-shi-yong-guo-du-he-dong-hua.md)
+  * [Vue中的Js动画与velocity.js](vuezhong-de-js-dong-hua-yu-velocity-js.md)
 
