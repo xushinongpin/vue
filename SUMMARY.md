@@ -23,4 +23,5 @@
   * [动态组件与v-once指令](dong-tai-zu-jian-yu-v-once-zhi-ling.md)
   * [Vue中的CSS动画原理](vuezhong-de-css-dong-hua-yuan-li.md)
   * [在Vue中使用Animate.css库](zai-vue-zhong-shi-yong-animate-css-ku.md)
+  * [Vue中同时使用过渡和动画](vuezhong-tong-shi-shi-yong-guo-du-he-dong-hua.md)
 
