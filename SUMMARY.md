@@ -18,4 +18,6 @@
 * [给组件绑定原生事件](gei-zu-jian-bang-ding-yuan-sheng-shi-jian.md)
 * [非父子组件之间的传递](fei-fu-zi-zu-jian-zhi-jian-de-chuan-di.md)
 * [Vue中的插槽](vuezhong-de-cha-cao.md)
+* [练习](lian-xi.md)
+  * [Vue中的作用域插槽](lian-xi/vuezhong-de-zuo-yong-yu-cha-cao.md)
 
