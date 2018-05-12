@@ -14,4 +14,5 @@
   * [:class 样式绑定](class-yang-shi-bang-ding.md)
   * [组件使用中的细节点](zu-jian-shi-yong-zhong-de-xi-jie-dian.md)
   * [父组件传值](fu-zu-jian-chuan-zhi.md)
+  * [组件参数校验与非props特性](zu-jian-can-shu-xiao-yan-yu-fei-props-te-xing.md)
 
