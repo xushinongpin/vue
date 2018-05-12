@@ -20,4 +20,5 @@
   * [非父子组件之间的传递](fei-fu-zi-zu-jian-zhi-jian-de-chuan-di.md)
   * [Vue中的插槽](vuezhong-de-cha-cao.md)
   * [Vue中的作用域插槽](lian-xi/vuezhong-de-zuo-yong-yu-cha-cao.md)
+  * [动态组件与v-once指令](dong-tai-zu-jian-yu-v-once-zhi-ling.md)
 
