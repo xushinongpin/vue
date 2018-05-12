@@ -16,4 +16,5 @@
   * [父组件传值](fu-zu-jian-chuan-zhi.md)
   * [组件参数校验与非props特性](zu-jian-can-shu-xiao-yan-yu-fei-props-te-xing.md)
   * [给组件绑定原生事件](gei-zu-jian-bang-ding-yuan-sheng-shi-jian.md)
+  * [非父子组件之间的传递](fei-fu-zi-zu-jian-zhi-jian-de-chuan-di.md)
 
