@@ -7,6 +7,7 @@
 		<meta charset="utf-8">
 		<title>在Vue中使用Animate.css库</title>
 		<link rel="stylesheet" type="text/css" href="./animate.css">
+		<!--官网提供的样式 可查找官网 bounce,flash,pulse,rubberBand,shake,swing,tada,wobble,jello,bounceIn,bounceInDown,bounceInLeft,bounceInRight,bounceInUp,bounceOut,bounceOutDown,bounceOutLeft,bounceOutRight,bounceOutUp,fadeIn,fadeInDown,fadeInDownBig,fadeInLeft,fadeInLeftBig,fadeInRight,fadeInRightBig,fadeInUp,fadeInUpBig,fadeOut,fadeOutDown,fadeOutDownBig,fadeOutLeft,fadeOutLeftBig,fadeOutRight,fadeOutRightBig,fadeOutUp,fadeOutUpBig,flip,flipInX,flipInY,flipOutX,flipOutY,lightSpeedIn,lightSpeedOut,rotateIn,rotateInDownLeft,rotateInDownRight,rotateInUpLeft,rotateInUpRight,rotateOut,rotateOutDownLeft,rotateOutDownRight,rotateOutUpLeft,rotateOutUpRight,slideInUp,slideInDown,slideInLeft,slideInRight,slideOutUp,slideOutDown,slideOutLeft,slideOutRight,zoomIn,zoomInDown,zoomInLeft,zoomInRight,zoomInUp,zoomOut,zoomOutDown,zoomOutLeft,zoomOutRight,zoomOutUp,hinge,jackInTheBox,rollIn,rollOut -->
 		<style type="text/css">
 			/*官方网址 https://daneden.github.io/animate.css/*/
 			/*@keyframes bounce-in {
