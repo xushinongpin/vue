@@ -7,3 +7,11 @@
 
 
 
+### 码云注册安装 https://gitee.com
+
+
+
+### git安装 https://git-scm.com
+
+
+
