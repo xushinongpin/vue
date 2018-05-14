@@ -5,13 +5,9 @@
 1. node -v 查看版本
 2. npm -v
 
+### 码云注册安装 [https://gitee.com](https://gitee.com)
 
-
-### 码云注册安装 https://gitee.com
-
-
-
-### git安装 https://git-scm.com
+### git安装 [https://git-scm.com](https://git-scm.com) 【 https://git-scm.com/download/win 与 https://tortoisegit.org/download/】
 
 
 
