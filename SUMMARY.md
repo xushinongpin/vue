@@ -26,4 +26,5 @@
   * [Vue中同时使用过渡和动画](vuezhong-tong-shi-shi-yong-guo-du-he-dong-hua.md)
   * [Vue中的Js动画与velocity.js](vuezhong-de-js-dong-hua-yu-velocity-js.md)
   * [Vue中多个元素或组件的过渡](vuezhong-duo-ge-yuan-su-huo-zu-jian-de-guo-du.md)
+  * [Vue中的列表过渡](vuezhong-de-lie-biao-guo-du.md)
 
