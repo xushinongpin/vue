@@ -12,7 +12,7 @@
 克隆线上文件：  git clone git@gitee.com:XXXX/Travel.git
 ```
 
-### git安装 [https://git-scm.com](https://git-scm.com) 【 [https://git-scm.com/download/win](https://git-scm.com/download/win) 与 [https://tortoisegit.org/download/】](https://tortoisegit.org/download/】)
+### git安装 [https://git-scm.com](https://git-scm.com) 【 https://git-scm.com/download/win  】
 
 ### 
 
@@ -41,8 +41,9 @@
 
     查看git   ---  git status
 
-    加入缓冲区  --- git add .
-    提交       ---  git push
+    加入缓冲区  git add .
+    执行提交   git commit -m 'project initialized'
+    提交上传  git push
 
 
 
