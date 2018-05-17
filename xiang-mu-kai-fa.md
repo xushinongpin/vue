@@ -18,15 +18,25 @@
 
 安装
 
-```
-# 全局安装 vue-cli
-$ npm install --global vue-cli
-# 创建一个基于 webpack 模板的新项目
-$ vue init webpack my-project
-# 安装依赖，走你
-$ cd my-project
-$ npm run dev
-```
+    # 全局安装 vue-cli
+    $ npm install --global vue-cli
+    # 创建一个基于 webpack 模板的新项目
+    $ vue init webpack my-project
+    # 安装依赖，走你
+    $ cd my-project
+    $ npm run dev
+
+    Target directory exists. Continue? Yes
+    ? Project name travel
+    ? Project description A Vue.js project
+    ? Author chongzi
+    ? Vue build standalone
+    ? Install vue-router? Yes
+    ? Use ESLint to lint your code? Yes
+    ? Pick an ESLint preset Standard
+    ? Set up unit tests No
+    ? Setup e2e tests with Nightwatch? No
+    ? Should we run `npm install` for you after the project has been created? (recommended) npm
 
 
 
