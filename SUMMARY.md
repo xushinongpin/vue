@@ -33,4 +33,5 @@
   * [多页面应用vs单页面应用](xiang-mu-kai-fa/duo-ye-mian-ying-yong-vs-dan-ye-mian-ying-yong.md)
   * [项目代码初始化](xiang-mu-kai-fa/xiang-mu-dai-ma-chu-shi-hua.md)
   * [首页header开发](xiang-mu-kai-fa/shou-yeheader-kai-fa.md)
+  * [iconfont的使用和代码优化](xiang-mu-kai-fa/iconfontde-shi-yong-he-dai-ma-you-hua.md)
 
