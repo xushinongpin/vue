@@ -268,8 +268,9 @@ npm install fastclick --save
 
 ### 图标地址注册生成管理
 
-1. 注册账号 http://www.iconfont.cn/
+1. 注册账号 [http://www.iconfont.cn/](http://www.iconfont.cn/)
 2. 图标管理 - 我的项目
-
+3. 点击右侧加号新建项目
+4. 
 
 
