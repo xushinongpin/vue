@@ -34,4 +34,5 @@
   * [项目代码初始化](xiang-mu-kai-fa/xiang-mu-dai-ma-chu-shi-hua.md)
   * [首页header开发](xiang-mu-kai-fa/shou-yeheader-kai-fa.md)
   * [iconfont的使用和代码优化](xiang-mu-kai-fa/iconfontde-shi-yong-he-dai-ma-you-hua.md)
+  * [首页轮播图](xiang-mu-kai-fa/lun-bo-tu.md)
 
