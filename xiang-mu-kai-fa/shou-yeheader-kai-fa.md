@@ -5,8 +5,6 @@ npm install stylus --save
 npm install stylus-loader --save
 ```
 
-
-
 ```
 <template>
     <div class="header">
@@ -44,6 +42,30 @@ export default {
       width: 1.24rem
       float: right
       text-align: center
+</style>
+```
+
+##### home文件引入header投
+
+```
+<template>
+    <div>
+        <home-header></home-header>
+    </div>
+</template>
+
+<script>
+import HomeHeader from './components/Header'
+export default {
+  name: 'Home',
+  components: {
+    HomeHeader
+  }
+}
+</script>
+
+<style>
+
 </style>
 
 ```
