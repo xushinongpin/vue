@@ -2,6 +2,7 @@
 
 ```
 npm install stylus --save
+npm install stylus-loader --save
 ```
 
 
