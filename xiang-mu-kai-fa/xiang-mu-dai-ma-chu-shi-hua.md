@@ -271,6 +271,51 @@ npm install fastclick --save
 1. 注册账号 [http://www.iconfont.cn/](http://www.iconfont.cn/)
 2. 图标管理 - 我的项目
 3. 点击右侧加号新建项目
-4. 
+
+### 配置home目录
+
+```
+路由 router里面的index.js
+
+  import Vue from 'vue'
+  import Router from 'vue-router'
+  import Home from '@/pages/home/Home'
+  
+  Vue.use(Router)
+  
+  export default new Router({
+    routes: [
+      {
+        path: '/',
+        name: 'Home',
+        component: Home
+      }
+    ]
+  })
+src/pages/home/Home.vue
+  <template>
+      <div>
+          hello world
+      </div>
+  </template>
+  
+  <script>
+  export default {
+    name: 'Home'
+  }
+  </script>
+  
+  <style>
+  
+  </style>
+
+注意报错提示什么
+比如：
+  Strings must use singlequote
+  Expected indentation of 2 spaces but found 4
+  Extra semicolon
+  Newline required at end of file but not found
+```
+
 
 
