@@ -40,7 +40,7 @@
     ? Should we run `npm install` for you after the project has been created? (recommended) npm
 
 
-    查看git   ---  git status
+    查看git     git status
 
     加入缓冲区  git add .
     执行提交   git commit -m 'project initialized'
