@@ -240,19 +240,30 @@ import './assets/styles/border.css'
 npm install fastclick --save
 进入项目根目录
     根目录的package.json里面
-    
+
   "dependencies": {
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
   多出
-  
+
   "dependencies": {
     "fastclick": "^1.0.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
   这一行 "fastclick": "^1.0.6", 即为成功
+  
+  src/main.js 引入 fastClick 
+  import Vue from 'vue'
+  import App from './App'
+  import router from './router'
+  import fastClick from 'fastclick'
+  import './assets/styles/reset.css'
+  import './assets/styles/border.css'
+  
+  Vue.config.productionTip = false
+  fastClick.attach(document.body)
 ```
 
 
