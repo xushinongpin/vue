@@ -9,10 +9,11 @@
 
 ```
 生成公钥： https://gitee.com/profile/sshkeys  教程 http://git.mydoc.io/?t=154712
+查看公钥  cat ~/.ssh/id_rsa.pub
 克隆线上文件：  git clone git@gitee.com:XXXX/Travel.git
 ```
 
-### git安装 [https://git-scm.com](https://git-scm.com) 【 https://git-scm.com/download/win  】
+### git安装 [https://git-scm.com](https://git-scm.com) 【 [https://git-scm.com/download/win](https://git-scm.com/download/win)  】
 
 ### 
 
