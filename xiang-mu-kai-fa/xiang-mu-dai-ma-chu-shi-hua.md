@@ -253,7 +253,7 @@ npm install fastclick --save
     "vue-router": "^3.0.1"
   },
   这一行 "fastclick": "^1.0.6", 即为成功
-  
+
   src/main.js 引入 fastClick 
   import Vue from 'vue'
   import App from './App'
@@ -261,10 +261,15 @@ npm install fastclick --save
   import fastClick from 'fastclick'
   import './assets/styles/reset.css'
   import './assets/styles/border.css'
-  
+
   Vue.config.productionTip = false
   fastClick.attach(document.body)
 ```
+
+### 图标地址注册生成管理
+
+1. 注册账号 http://www.iconfont.cn/
+2. 图标管理 - 我的项目
 
 
 
