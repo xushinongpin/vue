@@ -32,4 +32,5 @@
   * [路由](xiang-mu-kai-fa/lu-you.md)
   * [多页面应用vs单页面应用](xiang-mu-kai-fa/duo-ye-mian-ying-yong-vs-dan-ye-mian-ying-yong.md)
   * [项目代码初始化](xiang-mu-kai-fa/xiang-mu-dai-ma-chu-shi-hua.md)
+  * [首页header开发](xiang-mu-kai-fa/shou-yeheader-kai-fa.md)
 
