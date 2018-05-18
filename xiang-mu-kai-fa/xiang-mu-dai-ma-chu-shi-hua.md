@@ -236,5 +236,24 @@ import './assets/styles/border.css'
 
 ### 初始化点击延时300ms的
 
+```
+npm install fastclick --save
+进入项目根目录
+    根目录的package.json里面
+    
+  "dependencies": {
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1"
+  },
+  多出
+  
+  "dependencies": {
+    "fastclick": "^1.0.6",
+    "vue": "^2.5.2",
+    "vue-router": "^3.0.1"
+  },
+  这一行 "fastclick": "^1.0.6", 即为成功
+```
+
 
 
