@@ -227,15 +227,14 @@ src/assets/styles 里面创建 border.css 文件
 }
 ```
 
-
-
 ### src/main.js 添加引入css的代码
 
 ```
-
 import './assets/styles/reset.css'
 import './assets/styles/border.css'
 ```
+
+### 初始化点击延时300ms的
 
 
 
