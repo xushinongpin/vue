@@ -136,12 +136,25 @@ export default {
 </style>
 
 
-新建： mixins.styl
 
-    ellipsis()
-      overflow: hidden
-      white-space: nowrap
-      text-overflow: ellipsis
+
+
+```
+
+### 新建： mixins.styl
+
+```
+ellipsis()
+overflow: hidden
+white-space: nowrap
+text-overflow: ellipsis
+```
+
+### varibles.styl
+
+```
+$bgColor = #00bcd4
+$darkTextColor = #333
 ```
 
 
