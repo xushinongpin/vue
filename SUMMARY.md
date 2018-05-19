@@ -38,4 +38,5 @@
   * [图标区域标签布局](xiang-mu-kai-fa/tu-biao-qu-yu-biao-qian-bu-ju.md)
   * [推荐组件开发](xiang-mu-kai-fa/tui-jian-zu-jian-kai-fa.md)
   * [周末游组件开发](xiang-mu-kai-fa/zhou-mo-you-zu-jian-kai-fa.md)
+  * [Ajax获取首页数据](xiang-mu-kai-fa/ajaxhuo-qu-shou-ye-shu-ju.md)
 
