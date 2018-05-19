@@ -43,4 +43,5 @@
   * [城市选择页面路由配置](xiang-mu-kai-fa/cheng-shi-xuan-ze-ye-mian-lu-you-pei-zhi.md)
   * [搜索框布局](xiang-mu-kai-fa/sou-suo-kuang-bu-ju.md)
   * [城市列表布局](xiang-mu-kai-fa/cheng-shi-lie-biao-bu-ju.md)
+  * [better-scroll的使用及字母表布局](xiang-mu-kai-fa/better-scrollde-shi-yong-ji-zi-mu-biao-bu-ju.md)
 

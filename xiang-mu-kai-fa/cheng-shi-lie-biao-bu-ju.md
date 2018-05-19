@@ -1,4 +1,4 @@
-pages/city/City.vue
+### pages/city/City.vue
 
 ```
 <template>
@@ -26,10 +26,9 @@ export default {
 <style lang="stylus" scoped>
 
 </style>
-
 ```
 
-pages/city/components/List.vue
+### pages/city/components/List.vue
 
 ```
 <template>
@@ -124,7 +123,6 @@ export default {
       line-height: .76rem
       padding-left: .2rem
 </style>
-
 ```
 
 
