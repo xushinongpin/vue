@@ -37,4 +37,5 @@
   * [首页轮播图](xiang-mu-kai-fa/lun-bo-tu.md)
   * [图标区域标签布局](xiang-mu-kai-fa/tu-biao-qu-yu-biao-qian-bu-ju.md)
   * [推荐组件开发](xiang-mu-kai-fa/tui-jian-zu-jian-kai-fa.md)
+  * [周末游组件开发](xiang-mu-kai-fa/zhou-mo-you-zu-jian-kai-fa.md)
 
