@@ -297,7 +297,6 @@ export default {
       line-height: .76rem
       padding-left: .2rem
 </style>
-
 ```
 
 ### pages/city/components/Search.vue
@@ -411,7 +410,6 @@ export default {
     background: #fff
     color: #666
 </style>
-
 ```
 
 
