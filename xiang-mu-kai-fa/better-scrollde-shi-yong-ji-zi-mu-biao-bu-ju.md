@@ -1,4 +1,4 @@
-### better-scroll的使用及字母表布局
+### better-scroll的使用及字母表布局 【 https://github.com/ustbhuangyi/better-scroll 】
 
 ##### 安装更新 better-scroll
 
@@ -76,7 +76,6 @@ export default {
       text-align: center
       color: $bgColor
 </style>
-
 ```
 
 
