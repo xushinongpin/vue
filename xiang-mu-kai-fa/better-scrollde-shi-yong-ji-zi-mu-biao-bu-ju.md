@@ -1,4 +1,4 @@
-### better-scroll的使用及字母表布局 【 https://github.com/ustbhuangyi/better-scroll 】
+### better-scroll的使用及字母表布局 【 [https://github.com/ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) 】
 
 ##### 安装更新 better-scroll
 
