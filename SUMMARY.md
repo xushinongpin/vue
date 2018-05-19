@@ -36,5 +36,5 @@
   * [iconfont的使用和代码优化](xiang-mu-kai-fa/iconfontde-shi-yong-he-dai-ma-you-hua.md)
   * [首页轮播图](xiang-mu-kai-fa/lun-bo-tu.md)
   * [图标区域标签布局](xiang-mu-kai-fa/tu-biao-qu-yu-biao-qian-bu-ju.md)
-  * 推荐组件开发
+  * [推荐组件开发](xiang-mu-kai-fa/tui-jian-zu-jian-kai-fa.md)
 
