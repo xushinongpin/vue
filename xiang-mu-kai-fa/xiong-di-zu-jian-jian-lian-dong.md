@@ -77,7 +77,6 @@ export default {
       text-align: center
       color: $bgColor
 </style>
-
 ```
 
 ### pages/city/City.vue
@@ -146,7 +145,6 @@ export default {
 <style lang="stylus" scoped>
 
 </style>
-
 ```
 
 ### pages/city/components/List.vue
@@ -256,7 +254,6 @@ export default {
       line-height: .76rem
       padding-left: .2rem
 </style>
-
 ```
 
 
