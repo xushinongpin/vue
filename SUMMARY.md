@@ -39,4 +39,5 @@
   * [推荐组件开发](xiang-mu-kai-fa/tui-jian-zu-jian-kai-fa.md)
   * [周末游组件开发](xiang-mu-kai-fa/zhou-mo-you-zu-jian-kai-fa.md)
   * [Ajax获取首页数据](xiang-mu-kai-fa/ajaxhuo-qu-shou-ye-shu-ju.md)
+  * [首页父子组件数据传递](xiang-mu-kai-fa/shou-ye-fu-zi-zu-jian-shu-ju-chuan-di.md)
 
