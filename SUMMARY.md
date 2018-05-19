@@ -48,4 +48,5 @@
   * [兄弟组件间联动](xiang-mu-kai-fa/xiong-di-zu-jian-jian-lian-dong.md)
   * [列表切换性能优化](xiang-mu-kai-fa/lie-biao-qie-huan-xing-neng-you-hua.md)
   * [搜索功能实现](xiang-mu-kai-fa/sou-suo-gong-neng-shi-xian.md)
+  * [使用Vuex实现数据共享](xiang-mu-kai-fa/shi-yong-vuex-shi-xian-shu-ju-gong-xiang.md)
 
