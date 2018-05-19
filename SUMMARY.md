@@ -44,4 +44,5 @@
   * [搜索框布局](xiang-mu-kai-fa/sou-suo-kuang-bu-ju.md)
   * [城市列表布局](xiang-mu-kai-fa/cheng-shi-lie-biao-bu-ju.md)
   * [better-scroll的使用及字母表布局](xiang-mu-kai-fa/better-scrollde-shi-yong-ji-zi-mu-biao-bu-ju.md)
+  * [页面的动态数据渲染](xiang-mu-kai-fa/ye-mian-de-dong-tai-shu-ju-xuan-ran.md)
 
