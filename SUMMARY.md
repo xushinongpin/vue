@@ -41,4 +41,5 @@
   * [Ajax获取首页数据](xiang-mu-kai-fa/ajaxhuo-qu-shou-ye-shu-ju.md)
   * [首页父子组件数据传递](xiang-mu-kai-fa/shou-ye-fu-zi-zu-jian-shu-ju-chuan-di.md)
   * [城市选择页面路由配置](xiang-mu-kai-fa/cheng-shi-xuan-ze-ye-mian-lu-you-pei-zhi.md)
+  * [搜索框布局](xiang-mu-kai-fa/sou-suo-kuang-bu-ju.md)
 
