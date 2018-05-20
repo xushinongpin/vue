@@ -56,4 +56,5 @@
   * [实现Header渐隐渐现的效果](xiang-mu-kai-fa/shi-xian-header-jian-yin-jian-xian-de-xiao-guo.md)
   * [对全局时间的解绑](xiang-mu-kai-fa/dui-quan-ju-shi-jian-de-jie-bang.md)
   * [使用递归组件实现详情页列表](xiang-mu-kai-fa/shi-yong-di-gui-zu-jian-shi-xian-xiang-qing-ye-lie-biao.md)
+  * 使用Ajax获取动态数据
 
