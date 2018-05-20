@@ -1,9 +1,8 @@
-### Swiper的Api官网 http://3.swiper.com.cn/api/pagination/2016/0126/299.html
+### Swiper的Api官网 [http://3.swiper.com.cn/api/pagination/2016/0126/299.html](http://3.swiper.com.cn/api/pagination/2016/0126/299.html)
 
 ### /build/webpack.base.conf.js
 
 ```
-
   resolve: {
     extensions: ['.js', '.vue', '.json'],
     alias: {
@@ -87,10 +86,9 @@ export default {
         color: #fff
         bottom: -1 rem
 </style>
-
 ```
 
-### /src/pages/detail/components/Banner.vueBanner.vue
+### /src/pages/detail/components/Banner.vue
 
 ```
 <template>
@@ -169,7 +167,6 @@ export default {
         .banner-icon
           font-size: .24rem
 </style>
-
 ```
 
 
