@@ -46,7 +46,6 @@ export default {
   .item-children
    padding: 0 .2rem
 </style>
-
 ```
 
 ### /src/pages/detail/Detail.vue
@@ -101,7 +100,6 @@ export default {
   .content
     height: 50rem
 </style>
-
 ```
 
 ### /src/pages/detail/components/Header.vue
@@ -198,7 +196,6 @@ export default {
       font-size: .4rem
       color: #fff
 </style>
-
 ```
 
 
