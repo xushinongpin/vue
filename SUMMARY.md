@@ -61,5 +61,5 @@
   * [Vue项目的接口联调](xiang-mu-kai-fa/vuexiang-mu-de-jie-kou-lian-diao.md)
   * [Vue项目的真机测试](xiang-mu-kai-fa/vuexiang-mu-de-zhen-ji-ce-shi.md)
   * [vue项目打包上线](xiang-mu-kai-fa/vuexiang-mu-da-bao-shang-xian.md)
-  * Vue中异步组件的使用
+  * [Vue中异步组件的使用](xiang-mu-kai-fa/vuezhong-yi-bu-zu-jian-de-shi-yong.md)
 
