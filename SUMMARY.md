@@ -58,5 +58,5 @@
   * [使用递归组件实现详情页列表](xiang-mu-kai-fa/shi-yong-di-gui-zu-jian-shi-xian-xiang-qing-ye-lie-biao.md)
   * [使用Ajax获取动态数据](xiang-mu-kai-fa/shi-yong-ajax-huo-qu-dong-tai-shu-ju.md)
   * [在项目中加入基础动画](xiang-mu-kai-fa/zai-xiang-mu-zhong-jia-ru-ji-chu-dong-hua.md)
-  * Vue项目的接口联调
+  * [Vue项目的接口联调](xiang-mu-kai-fa/vuexiang-mu-de-jie-kou-lian-diao.md)
 
