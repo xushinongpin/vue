@@ -54,4 +54,5 @@
   * [详情页动态路由及banner布局](xiang-mu-kai-fa/xiang-qing-yedong-tai-lu-you-ji-banner-bu-ju.md)
   * [共用图片画廊组件拆分](xiang-mu-kai-fa/gong-yong-tu-pian-hua-lang-zu-jian-chai-fen.md)
   * [实现Header渐隐渐现的效果](xiang-mu-kai-fa/shi-xian-header-jian-yin-jian-xian-de-xiao-guo.md)
+  * [对全局时间的解绑](xiang-mu-kai-fa/dui-quan-ju-shi-jian-de-jie-bang.md)
 
