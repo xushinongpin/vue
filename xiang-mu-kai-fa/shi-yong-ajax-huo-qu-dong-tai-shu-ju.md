@@ -149,7 +149,6 @@ export default {
         .banner-icon
           font-size: .24rem
 </style>
-
 ```
 
 ### /src/App.vue 【 去除Detail 缓存 】
@@ -172,7 +171,6 @@ export default {
 <style>
 
 </style>
-
 ```
 
 ### /src/router/index.js 【 优化滚动行为 】
@@ -206,7 +204,6 @@ export default new Router({
     return { x: 0, y: 0 }
   }
 })
-
 ```
 
 
