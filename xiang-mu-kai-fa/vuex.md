@@ -230,7 +230,6 @@ export default {
       line-height: .76rem
       padding-left: .2rem
 </style>
-
 ```
 
 
