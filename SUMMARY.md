@@ -51,4 +51,5 @@
   * [使用Vuex实现数据共享](xiang-mu-kai-fa/shi-yong-vuex-shi-xian-shu-ju-gong-xiang.md)
   * [Vuex的高级使用及localStorage](xiang-mu-kai-fa/vuex.md)
   * [使用keep-alive优化网页性能](xiang-mu-kai-fa/shi-yong-keep-alive-you-hua-wang-ye-xing-neng.md)
+  * [详情页动态路由及banner布局](xiang-mu-kai-fa/xiang-qing-yedong-tai-lu-you-ji-banner-bu-ju.md)
 
