@@ -60,4 +60,5 @@
   * [在项目中加入基础动画](xiang-mu-kai-fa/zai-xiang-mu-zhong-jia-ru-ji-chu-dong-hua.md)
   * [Vue项目的接口联调](xiang-mu-kai-fa/vuexiang-mu-de-jie-kou-lian-diao.md)
   * [Vue项目的真机测试](xiang-mu-kai-fa/vuexiang-mu-de-zhen-ji-ce-shi.md)
+  * [vue项目打包上线](xiang-mu-kai-fa/vuexiang-mu-da-bao-shang-xian.md)
 
