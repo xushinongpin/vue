@@ -1,3 +1,5 @@
+# GitHub地址： https://github.com/xushinongpin/vue
+
 # npm使用 安装nodejs 地址： [https://nodejs.org/zh-cn/download/](https://nodejs.org/zh-cn/download/)
 
 ```
@@ -45,7 +47,7 @@ icon.styl里面路径踩过的坑：
 
 ##### css3 注意事项网址：  [https://www.w3cplus.com/css3/css-secrets/sticky-footers.html](https://www.w3cplus.com/css3/css-secrets/sticky-footers.html)
 
-##### flex布局 分享网址： http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+##### flex布局 分享网址： [http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
 
 ##### 挂载点内部的内容 - 模版内容 template
 
